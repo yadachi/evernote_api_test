@@ -3,7 +3,7 @@ require 'oauth/consumer'
 
 require "evernote_oauth"
 
-OAUTH_COMSUMER_KEY = ""
-OAUTH_CONSUMER_SECRET = ""
+OAUTH_CONSUMER_KEY = "your consumer key"
+OAUTH_CONSUMER_SECRET = "your consumer secret"
 
 SANDBOX = true
